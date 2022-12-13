@@ -1,4 +1,4 @@
-with open('Aoc1input.in') as file:
+with open('day1.dat') as file:
     data = [i for i in file.read().strip().split("\n")]
 
 max = 0
